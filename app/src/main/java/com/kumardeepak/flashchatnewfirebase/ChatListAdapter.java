@@ -126,7 +126,7 @@ public class ChatListAdapter extends BaseAdapter {
 
 
             holder.params.gravity = Gravity.END;
-            holder.authorName.setTextColor(Color.GREEN);
+            holder.authorName.setTextColor(Color.RED);
 
             // If you want to use colours from colors.xml
             // int colourAsARGB = ContextCompat.getColor(mActivity.getApplicationContext(), R.color.yellow);
